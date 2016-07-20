@@ -2,7 +2,7 @@
   var context = new AudioContext()
   var source = context.createBufferSource()
   var request = new XMLHttpRequest()
-  request.open('GET', './allstar.mp3', true)
+  request.open('GET', 'http://mwolff3.github.io/InfiniteSmashMouth/anime.js', true)
   request.responseType = 'arraybuffer'
   request.onload = () => {
     var audioData = request.response
