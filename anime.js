@@ -6,6 +6,7 @@
   request.responseType = 'arraybuffer'
   request.onload = () => {
     var audioData = request.response
+    console.log(audioData)
     context.decodeAudioData(audioData, (buffer) => {
       source.buffer = buffer
       source.connect(context.destination)
