@@ -1,11 +1,14 @@
 # InfiniteSmashMouth
-A silly web page that arounds smash mouth's All Star infinitely
+A silly web page that uses WebAudio to loop music
 
-http://mwolff3.github.io/InfiniteSmashMouth
+http://matthewjwolff.github.io/InfiniteSmashMouth
 
 ##NEW MEMES!
-http://mwolff3.github.io/InfiniteSmashMouth/edge
-http://mwolff3.github.io/InfiniteSmashMouth/chunk
+- http://matthewjwolff.github.io/InfiniteSmashMouth/edge
+- http://matthewjwolff.github.io/InfiniteSmashMouth/chunk
+- http://matthewjwolff.github.io/InfiniteSmashMouth/anime
+- http://matthewjwolff.github.io/InfiniteSmashMouth/cory
+- http://matthewjwolff.github.io/InfiniteSmashMouth/photograph
 
 ##Works best in Firefox Developer Edition.
 Timing seems extremeley reliable there.
