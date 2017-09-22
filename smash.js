@@ -1,5 +1,5 @@
 function init() {	
-	buffer = new Tone.Buffer("https://dl.dropboxusercontent.com/u/37873577/allstar.mp3", function(){
+	buffer = new Tone.Buffer("https://matthewjwolff.github.io/InfiniteSmashMouth/allstar.mp3", function(){
 		meme();
 	});
 }
