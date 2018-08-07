@@ -1,6 +1,6 @@
 function init() {
 	buffer = new 
-Tone.Buffer("https://matthewjwolff.github.io/InfiniteSmashMouth/chunk.mp3", 
+Tone.Buffer("chunk.mp3", 
 function(){
 		meme();
 	});
