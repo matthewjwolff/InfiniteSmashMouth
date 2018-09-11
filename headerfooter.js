@@ -6,6 +6,7 @@ hreq.onReadyStateChange = () => {
     document.getElementById("header").innerHTML = hreq.responseText
   }
 }
+hreq.send()
 
 var freq = new XMLHttpRequest()
 freq.open("GET", "footer.html", true)
@@ -14,4 +15,5 @@ freq.onReadyStateChange = () => {
     document.getElementById("footer").innerHTML = freq.responseText
   }
 }
+freq.send()
 }
